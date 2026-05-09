@@ -1,2 +1,3 @@
 # rishitsinha-demo
-This is my first Git reprosity 
+This is my first Git repository
+
